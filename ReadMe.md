@@ -11,6 +11,8 @@ Python Backend Dev / Data Analyst
 
 Боты:
 
+- Бот для онлайн-заказа тортов из авторской пекарни: [ссылка](https://github.com/KillerBee88/BakeCake)
+
 - Бот технической поддержки, диалоги работают на базе DialofFlow: [ссылка](https://github.com/pas-zhukov/support-bot)
 - Бот для автопубликации комиксов вконтакет: [ссылка](https://github.com/pas-zhukov/xkcd)
 - Бот для автопубликации фотографий космоса от NASA и SpaceX в выбранном канале: [ссылка](https://github.com/pas-zhukov/space-telegram)
