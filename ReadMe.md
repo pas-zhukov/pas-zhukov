@@ -1,5 +1,5 @@
 # 💫 About Me | Обо мне
-Python Backend Dev / Data Analyst
+Python Backend Dev
 
 # 📚 My Projects | Мои проекты
 
