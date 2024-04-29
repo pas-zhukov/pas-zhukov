@@ -1,5 +1,5 @@
 # 💫 About Me | Обо мне
-Python Backend Dev
+Java Backend Dev
 
 # 📚 My Projects | Мои проекты
 
@@ -35,5 +35,6 @@ Data Science и моделирование:
 # 📊 GitHub Stats | Статистка профиля
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=pas-zhukov&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+![](https://www.codewars.com/users/pas-zhukov/badges/large)
 ---
 [![](https://visitcount.itsvg.in/api?id=pas-zhukov&icon=0&color=0)](https://visitcount.itsvg.in)
